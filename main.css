@@ -11,19 +11,31 @@
            font-family: "Roboto Condensed", sans-serif;
           font-size:40px;
             display: inline; /* switch van block naar inline */
-      background-color: blue;
-      color: white;
+      background-color: greenyellow;
+      color: rgba(240, 11, 11, 0.473);
       padding: 10px;
       margin: 10px;
         }
   </style>
   </head>
   <body>
-    <h1>Voorbeeld 14</h1>
+    <h1>Salon yvette</h1>
     <ul> <!-- parent -->
       <li>Home</li> <!-- child -->
       <li>About</li> <!-- child -->
       <li>Contact</li> <!-- child -->
     </ul>
   </body>
+  <h1>Schoonheids en pedicuresalon Yvette</h1>
+    <ul> <!-- parent -->
+      <li><a href="voorbeeld_5.html">Over salon</a></li> <!-- child -->
+      <li>Prijzenlijst</li> <!-- child -->
+      <li>Contact</li> <!-- child -->
+    </ul>
+
+<h1> Over mijn salon</h1>
+<p> Mijn naam is Yvette Visser en welkom op de site van mijn schoonheids en pedicure salon. Mijn schoonheids en pedicure salon staat gevestigd in Hoogkerk. Het is een salon aan het huis waar ik leef met mijn gezin.
+</p>Jaren geleden ben ik begonnen met de opleiding schoonheids en pedicure specialiste op het noorderpoort. Toen ik mijn opleiding had afgerond ben ik mijn eigen kleinschalige salon begonnen aan huis. Eerst was het een stuk kleiner en in ons huis. Toen wij in 2001 voor ons tweede kind gingen verhuizen hebben wij de huidige salon aan huis laten bouwen.
+</p>De salon beschikt over een wachtkamer, toilet, behandelruimte en zonnebank ruimte.
+<img src=http://www.goldenscissors.nl/wp-content/uploads/2014/07/rustgevend.jpg
 </html>
